@@ -1,2 +1,3 @@
-# fast-sports-analytics-p9s0
-Automated issue comment bot repository
+# Fast Sports Analytics P9S0
+
+Automated issue comment bot repository.
